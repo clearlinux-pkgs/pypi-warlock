@@ -4,7 +4,7 @@
 #
 Name     : pypi-warlock
 Version  : 2.0.1
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/de/cf/ba9ac96d09b797c377e2c12c0eb6b19565f3b2a2efb55932d319e319b622/warlock-2.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/de/cf/ba9ac96d09b797c377e2c12c0eb6b19565f3b2a2efb55932d319e319b622/warlock-2.0.1.tar.gz
 Summary  : Python object model built on JSON schema and JSON patch.
